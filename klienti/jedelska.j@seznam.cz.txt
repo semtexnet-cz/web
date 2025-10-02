@@ -1,0 +1,41 @@
+﻿Zákazník:
+Jarmila Jedelská
+
+Datum přijetí:
+4.4.2015
+
+Identita grafu:
+Jedelska
+
+Variabilní symbol:
+116008
+
+Tarif:
+10/5Mbps
+
+Paušál:
+220Kč
+
+Brána pro přístup:
+semtexnet.ddns.net
+
+Code:
+<font size='0' color='#ffffff'>
+</font><font color='#7d7e7f'>
+IP adresy:
+192.168.116.8
+-
+-
+-
+
+Stav:
+<font color='#00ff00'>ZAPLACENO</font><font color='#7d7e7f'>
+
+Síla signálu:
+ -48dBm
+
+TV:
+-
+-
+-
+-

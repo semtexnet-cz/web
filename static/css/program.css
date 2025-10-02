@@ -1,0 +1,12 @@
+.productbox{
+	padding: 15px 15px 20px;
+	position: relative;
+	/*min-width: 240px;*/
+	/*float: right;*/
+	font-size: 13px;
+	background: #fff;
+	padding: 15px;
+	border-radius: 2px !important;
+	box-shadow: 0 2px 3px 2px #dadde5;
+	margin-bottom: 20px;
+}

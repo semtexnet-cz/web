@@ -1,0 +1,41 @@
+﻿Zákazník:
+Tomáš Komárek
+
+Datum přijetí:
+24.11.2016
+
+Identita grafu:
+Komarek
+
+Variabilní symbol:
+116018
+
+Tarif:
+10/5Mbps
+
+Paušál:
+220Kč
+
+Brána pro přístup:
+semtexnet.ddns.net
+
+Code:
+<font size='0' color='#ffffff'>
+</font><font color='#7d7e7f'>
+IP adresy:
+192.168.116.18
+-
+-
+-
+
+Stav:
+<font color='#00ff00'>ZAPLACENO</font><font color='#7d7e7f'>
+
+Síla signálu:
+ -35dBm
+
+TV:
+-
+-
+-
+-

@@ -1,0 +1,41 @@
+﻿Zákazník:
+Milena Zemanová
+
+Datum přijetí:
+3.7.2019
+
+Identita grafu:
+Zemanova
+
+Variabilní symbol:
+116028 (216028)
+
+Tarif:
+10/5Mbps + 2xTV
+
+Paušál:
+220Kč + 390Kč
+
+Brána pro přístup:
+185.199.86.19
+
+Code:
+<font size='0' color='#ffffff'>
+</font><font color='#7d7e7f'>
+IP adresy:
+192.168.116.28
+-
+-
+-
+
+Stav:
+<font color='#00ff00'>ZAPLACENO</font><font color='#7d7e7f'>
+
+Síla signálu:
+ -39dBm
+
+TV:
+<font color='#00ff00'>AKTIVNÍ</font><font color='#7d7e7f'>
+<font color='#00ff00'>AKTIVNÍ</font><font color='#7d7e7f'>
+-
+-
